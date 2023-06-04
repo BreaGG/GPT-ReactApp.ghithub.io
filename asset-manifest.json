@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GPT-ReactApp.ghithub.io/static/css/main.beec7908.css",
+    "main.js": "/GPT-ReactApp.ghithub.io/static/js/main.9f9becb8.js",
+    "static/media/possibility.png": "/GPT-ReactApp.ghithub.io/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/robot2.png": "/GPT-ReactApp.ghithub.io/static/media/robot2.daf404c06c0515fa6744.png",
+    "static/media/blog01.png": "/GPT-ReactApp.ghithub.io/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/GPT-ReactApp.ghithub.io/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/GPT-ReactApp.ghithub.io/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/GPT-ReactApp.ghithub.io/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/GPT-ReactApp.ghithub.io/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/logo.svg": "/GPT-ReactApp.ghithub.io/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/GPT-ReactApp.ghithub.io/index.html",
+    "main.beec7908.css.map": "/GPT-ReactApp.ghithub.io/static/css/main.beec7908.css.map",
+    "main.9f9becb8.js.map": "/GPT-ReactApp.ghithub.io/static/js/main.9f9becb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beec7908.css",
+    "static/js/main.9f9becb8.js"
+  ]
+}
